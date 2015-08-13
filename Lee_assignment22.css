@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+h1.a{
+	color:#FFF;
+	font-family:'Arial Black', Gadget, sans-serif;
+	font-size:60px;
+	margin-left:3em;
+	margin-top:3em;
+	margin-bottom:1em;}
+p{
+	color:#369;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:20px;}
+
+	
+	
+	h1.b{
+color:#39C;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size:20px;}
+
+ol.a{list-style-type:circle;
+}
+
+li.b{list-style-type:none;
+font-size:16px;
+font-family:"Arial Black", Gadget, sans-serif;
+color:#39C;}
+li.c{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#369;}
